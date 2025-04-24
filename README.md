@@ -11,4 +11,7 @@ A simple image captcha genrator
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/39544459/137623915-1e837ada-f199-4513-a15d-ecbb969fd53e.png)
 
+<<<<<<< HEAD
 ## *Mayur Singal*  
+=======
+>>>>>>> 261c13114819bc6a30e7daf981e948ad6f8a1558
